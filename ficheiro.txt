@@ -1,1 +1,2 @@
-Este é o exemplo de um ficheiro txt
+
+fiz uma alteração dentro do ficheiro
